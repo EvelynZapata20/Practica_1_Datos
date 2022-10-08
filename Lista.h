@@ -1,8 +1,6 @@
 #ifndef PRACTICA_1_DATOS_LISTA_H
 #define PRACTICA_1_DATOS_LISTA_H
 
-#include <set>
-#include <vector>
 #include "iostream"
 #include "string"
 using namespace std;

@@ -1,8 +1,5 @@
 #include "Lista.h"
 #include <iostream>
-#include <set>
-#include <vector>
-#include <queue>
 
 using namespace std;
 
